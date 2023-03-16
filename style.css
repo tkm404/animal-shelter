@@ -1,0 +1,24 @@
+.column {
+    float: right;
+    text-align: left;
+    width: 50%;
+    box-sizing: border-box;
+}
+.headers {
+    text-align: center;
+    box-sizing: border-box;
+    background-color: red;
+  background-image:
+    linear-gradient(
+      to right, 
+      #fffdc2,
+      #fffdc2 15%,
+      #d7f0a2 15%,
+      #d7f0a2 85%,
+      #fffdc2 85%
+    );
+}
+.pics img {
+    height: 250px;
+    width: 375px;
+}
