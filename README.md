@@ -1,10 +1,8 @@
-# animal-shelter
-Learning how to cascade!!!!
-# _{Application Name}_
+# _Animal Shelter_
 
-#### By _**{Joseph Wilfong & Thomas McDowell}**_
+#### By _**Joseph Wilfong & Thomas McDowell**_
 
-#### _{Giving animals hope}_
+#### _Giving animals hope_
 
 ## Technologies Used
 
