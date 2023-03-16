@@ -11,7 +11,7 @@
 
 ## Description
 
-_{A website where we are helping animals find their forever home. A project website for practicing application of CSS cascading}_
+_A website where we are helping animals find their forever home. A project website for practicing application of CSS cascading_
 ## Setup/Installation Requirement
 
 * _Download VScode_
